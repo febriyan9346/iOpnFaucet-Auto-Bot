@@ -1,1 +1,3 @@
-0xYOUR_WALLET_ADDRESS_HERE
+0xYourWalletAddress1
+0xYourWalletAddress2
+0xYourWalletAddress3
